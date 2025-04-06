@@ -3,4 +3,4 @@
 
 HTML + SCSS
 
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/977fe135-3442-4dc1-be63-9f25d4417391" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/418c40ea-a581-4f82-9200-a3865b6b946e" />
